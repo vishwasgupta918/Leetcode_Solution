@@ -1,0 +1,13 @@
+int minStartValue(vector<int>& nums) {
+        int n = nums.size();
+        int  sum = 0;
+        int min_value = INT_MAX;
+        for(int a : nums){
+            sum += a;
+            min_value = min(sum,min_value);
+        }
+        if(min_value < 0)
+            return 1 - min_value;
+        else 
+            return 1;
+    }
