@@ -1,0 +1,27 @@
+class Solution {
+    public String addStrings(String num1, String num2) {
+
+        int p = num1.length() - 1;
+        int q = num2.length() - 1;
+        int carry = 0;
+
+        StringBuilder ans = new StringBuilder();
+
+        while (p >= 0 || q >= 0 || carry != 0) {
+
+            int x = (p >= 0) ? num1.charAt(p) - '0' : 0;
+            int y = (q >= 0) ? num2.charAt(q) - '0' : 0;
+
+            int sum = x + y + carry;
+
+            ans.append(sum % 10);
+
+            carry = sum / 10;
+
+            p--;
+            q--;
+        }
+
+        return ans.reverse().toString();
+    }
+}
