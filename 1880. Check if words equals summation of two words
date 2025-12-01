@@ -1,0 +1,18 @@
+class Solution {
+    private int Convert(String S) {
+        int num = 0;
+        for (char c : S.toCharArray()) {
+            int digit = c - 'a';   // letter value
+            num = num * 10 + digit; // build number
+        }
+        return num;
+    }
+
+    public boolean isSumEqual(String firstWord, String secondWord, String targetWord) {
+        int a = Convert(firstWord);
+        int b = Convert(secondWord);
+        int c = Convert(targetWord);
+
+        return (a + b == c);
+    }
+}
