@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0207-course-schedule) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## String
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
