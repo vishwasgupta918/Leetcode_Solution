@@ -33,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
