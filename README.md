@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
