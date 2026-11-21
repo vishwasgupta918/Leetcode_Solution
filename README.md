@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0207-course-schedule) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Hash Table
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
