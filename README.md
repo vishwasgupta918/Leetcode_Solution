@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0875-koko-eating-bananas](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0875-koko-eating-bananas](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
