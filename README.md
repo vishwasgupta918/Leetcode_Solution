@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3934-smallest-unique-subarray) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3934-smallest-unique-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vishwasgupta918/Leetcode_Solution/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
